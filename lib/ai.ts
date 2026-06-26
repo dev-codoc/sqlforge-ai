@@ -36,7 +36,7 @@ export async function generateSQL(
       'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY}`,
       'Content-Type': 'application/json',
       'HTTP-Referer': process.env.NEXT_PUBLIC_APP_URL!,
-      'X-Title': 'QueryCraft AI',
+      'X-Title': 'SQLForge AI',
     },
     body: JSON.stringify({
       model: 'meta-llama/llama-3.1-70b-instruct',

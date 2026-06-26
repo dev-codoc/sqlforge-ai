@@ -25,7 +25,7 @@ function Footer() {
       <div className="container mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-3">
         <Link href="/" className="flex items-center gap-2 text-sm text-[#71717A] hover:text-white transition-colors">
           <Database className="w-4 h-4 text-[#7C3AED]" />
-          QueryCraft AI · © {new Date().getFullYear()}
+          SQLForge AI · © {new Date().getFullYear()}
         </Link>
         <p className="text-xs text-[#52525B]">
           Built with Next.js 14 · OpenRouter · PostgreSQL · MongoDB

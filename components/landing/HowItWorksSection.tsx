@@ -8,7 +8,7 @@ const STEPS = [
     number: '01',
     icon: FileCode2,
     title: 'Paste your schema',
-    desc: 'Drop in your SQL DDL — CREATE TABLE statements. QueryCraft parses tables, columns, types, and foreign keys automatically.',
+    desc: 'Drop in your SQL DDL — CREATE TABLE statements. SQLForge parses tables, columns, types, and foreign keys automatically.',
     color: '#7C3AED',
   },
   {

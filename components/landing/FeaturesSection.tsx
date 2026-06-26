@@ -25,7 +25,7 @@ const FEATURES = [
   {
     icon: Database,
     title: 'Schema-aware generation',
-    desc: 'Paste your DDL once. QueryCraft parses your tables, columns, types, and relationships so queries always use your exact field names.',
+    desc: 'Paste your DDL once. SQLForge parses your tables, columns, types, and relationships so queries always use your exact field names.',
     color: '#F59E0B',
   },
   {
@@ -54,7 +54,7 @@ export function FeaturesSection() {
           className="text-center mb-16"
         >
           <span className="text-xs tracking-[0.2em] text-[#7C3AED] font-semibold uppercase">
-            Why QueryCraft
+            Why SQLForge
           </span>
           <h2 className="mt-4 text-4xl sm:text-5xl font-bold text-white tracking-tight">
             Not just generation.{' '}
@@ -63,7 +63,7 @@ export function FeaturesSection() {
             </span>
           </h2>
           <p className="mt-4 text-[#71717A] max-w-xl mx-auto text-lg leading-relaxed">
-            Most tools stop at generating SQL. QueryCraft explains it, validates it, and runs it safely.
+            Most tools stop at generating SQL. SQLForge explains it, validates it, and runs it safely.
           </p>
         </motion.div>
 

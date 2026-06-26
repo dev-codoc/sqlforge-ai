@@ -35,7 +35,7 @@ export function Navbar() {
       <div className="container mx-auto px-6 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 text-white font-semibold tracking-tight">
           <Database className="w-5 h-5 text-[#7C3AED]" />
-          <span>QueryCraft</span>
+          <span>SQLForge</span>
           <span className="text-[#7C3AED]">AI</span>
         </Link>
 

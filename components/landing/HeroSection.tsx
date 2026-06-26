@@ -67,7 +67,7 @@ function AnimatedSQLCard() {
           <div className="w-3 h-3 rounded-full bg-[#FF5F57]" />
           <div className="w-3 h-3 rounded-full bg-[#FFBD2E]" />
           <div className="w-3 h-3 rounded-full bg-[#28CA41]" />
-          <span className="ml-3 text-xs text-[#52525B] font-mono">querycraft — query builder</span>
+          <span className="ml-3 text-xs text-[#52525B] font-mono">SQLForge — query builder</span>
         </div>
 
         {/* Prompt row */}
